@@ -1,1 +1,2 @@
- Its a test. Practice GIT Commands
+ Its a test. Practice GIT Command
+adding a new line
